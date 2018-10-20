@@ -20,3 +20,6 @@ How might using version control make you more confident to make changes that cou
 
 Now that you have your workspace set up, what do you want to try using Git for?
 -- Make web page updates and start creating portfolio with commit history
+
+
+New change
