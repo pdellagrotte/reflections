@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+- It creates a hidden directory that tracks the git repository and commit history. To do this you type $ git init; $ git status shows the status of the repo
+
